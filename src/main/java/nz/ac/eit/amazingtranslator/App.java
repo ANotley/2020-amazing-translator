@@ -17,7 +17,6 @@ public class App
         Scanner scanner = new Scanner(System.in);
         String numberAsString = scanner.nextLine();
 
-
         //Requirement 2: Ask the user what the target output language is
         System.out.println("What is the output language ([1]French or [2]German)?");
         String optionAsString = scanner.nextLine();
